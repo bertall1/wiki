@@ -244,3 +244,11 @@ Tested on GK7205V300 for /dev/ttyАМА1:
 | Processor   | IRCUT1 | IRCUT2 | IRSTATUS     | DEVICE ID     |
 |-------------|--------|--------|--------------|---------------|
 | Hi3518Ev200 | 61     | 60     | 1 (inverted) | ZG2622MW      |
+
+
+### SpaceTechnology ST-171 M IP Home v.3/3,6
+
+| Processor   | IRCUT1 | IRCUT2 | IRLED        | AUDIO         |
+|-------------|--------|--------|--------------|---------------|
+| ssc335/3335 | 61     |        | 47           |               |
+
